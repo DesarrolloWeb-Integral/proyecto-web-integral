@@ -1,0 +1,4 @@
+Create Table Persona (
+    id int,
+    nombre varchar
+)
